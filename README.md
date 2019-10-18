@@ -1,8 +1,9 @@
 # Chasers
 AI and ML using MATLAB
-PROJECT PROPOSAL
+
  
-•	Idea Validation 
+•	Idea Validation
+
 We build an algorithm to help data scientists to expect the missing data by doing combination between “AI” artificial Intelligence and methods like: “KNN” k-nearest neighbor, linear regression and linear imputation. Then we have to split the entire row which have the missing data from the dataset then we have to build machine learning model by training the system with the reminder of dataset by choosing suitable algorithm then we have to put the other part as input to predict the missing data values.  
  
 •	References 
